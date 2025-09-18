@@ -79,10 +79,9 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fq393)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://img.shields.io/badge/微信-Van__1993-07C160?style=flat-square)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/fq393)
+[![GitHub: fq393](https://img.shields.io/badge/GitHub-fq393-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fq393)
+[![WeChat: Van_1993](https://img.shields.io/badge/WeChat-Van__1993-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+[![Email: fanqi1212@gmail.com](https://img.shields.io/badge/Email-fanqi1212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fanqi1212@gmail.com)
 
 </div>
 
@@ -91,7 +90,7 @@ me.say_hi()
 - 💼 **专业领域**: Python开发、人工智能、数据分析
 - 🔍 **寻求合作**: AI项目、数据科学、开源贡献
 - 💬 **微信**: Van_1993 （添加请备注"GitHub"）
-- 📧 **邮箱**: 欢迎技术交流和项目合作
+- 📧 **邮箱**: fanqi1212@gmail.com
 
 ---
 
