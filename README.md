@@ -10,10 +10,7 @@
   <img src="pic001.png" alt="Vanche's Logo" width="120" height="120" style="border-radius: 50%; margin: 20px 0;"/>
   
   <br/>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/fq393?label=Followers&style=social)](https://github.com/fq393)
-  [![GitHub stars](https://img.shields.io/github/stars/fq393?label=Stars&style=social)](https://github.com/fq393)
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=fq393.fq393&right_color=6366f1)](https://github.com/fq393)
+ 
   
 </div>
 
@@ -84,13 +81,10 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub: fq393](https://img.shields.io/badge/GitHub-fq393-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fq393)
-[![WeChat: Van_1993](https://img.shields.io/badge/WeChat-Van__1993-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
-[![Email: fanqi1212@gmail.com](https://img.shields.io/badge/Email-fanqi1212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fanqi1212@gmail.com)
-
 **💼 专业领域**: Python开发 • 人工智能 • 数据分析  
 **🔍 寻求合作**: AI项目 • 数据科学 • 开源贡献  
-**💬 微信**: Van_1993 （添加请备注"GitHub"）
+**💬 微信**: Van_1993 （添加请备注"GitHub"）  
+**📧 邮箱**: fanqi1212@gmail.com
 
 </div>
 
