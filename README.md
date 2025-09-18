@@ -91,21 +91,9 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fq393&label=Profile%20views&color=0e75b6&style=flat" alt="fq393" />
-</div>
-
-<div align="center">
   
 ### 💡 "代码改变世界，AI创造未来"
 
 *感谢访问我的GitHub主页！有任何想法可以联系一起探讨 🚀*
 
-</div>
-
----
-
-<div align="center">
-  
-  ⭐️ From [fq393](https://github.com/fq393)
-  
 </div>
