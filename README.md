@@ -80,7 +80,7 @@ me.say_hi()
 🌱 正在学习：**深度学习** 和 **机器学习算法**  
 💬 欢迎讨论：**Python开发**、**人工智能**、**数据科学**
 
-## 📫 联系我
+## 📫 联系我 & 合作交流
 
 <div align="center">
 
@@ -88,14 +88,11 @@ me.say_hi()
 [![WeChat: Van_1993](https://img.shields.io/badge/WeChat-Van__1993-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 [![Email: fanqi1212@gmail.com](https://img.shields.io/badge/Email-fanqi1212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fanqi1212@gmail.com)
 
+**💼 专业领域**: Python开发 • 人工智能 • 数据分析  
+**🔍 寻求合作**: AI项目 • 数据科学 • 开源贡献  
+**💬 微信**: Van_1993 （添加请备注"GitHub"）
+
 </div>
-
-### 🤝 合作交流
-
-- 💼 **专业领域**: Python开发、人工智能、数据分析
-- 🔍 **寻求合作**: AI项目、数据科学、开源贡献
-- 💬 **微信**: Van_1993 （添加请备注"GitHub"）
-- 📧 **邮箱**: fanqi1212@gmail.com
 
 ---
 
