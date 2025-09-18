@@ -6,6 +6,11 @@
 
 <div align="center">
   
+  <!-- Personal Logo -->
+  <img src="pic001.png" alt="Vanche's Logo" width="120" height="120" style="border-radius: 50%; margin: 20px 0;"/>
+  
+  <br/>
+  
   [![GitHub followers](https://img.shields.io/github/followers/fq393?label=Followers&style=social)](https://github.com/fq393)
   [![GitHub stars](https://img.shields.io/github/stars/fq393?label=Stars&style=social)](https://github.com/fq393)
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=fq393.fq393&right_color=6366f1)](https://github.com/fq393)
@@ -17,7 +22,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "fq393"
+        self.name = "Vanche"
         self.role = "Python Developer & AI Enthusiast"
         self.language_spoken = ["zh_CN", "en_US"]
         self.code = ["Python", "Java", "JavaScript", "SQL"]
