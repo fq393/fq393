@@ -1,216 +1,200 @@
-# fq393 个人主页
+# 👋 Hi there, I'm fq393!
 
-一个现代化、响应式的个人主页网站，展示个人信息、技能、项目和联系方式。
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Java+%7C+AI+%7C+Machine+Learning;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-## 🌟 特性
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/fq393?label=Followers&style=social)](https://github.com/fq393)
+  [![GitHub stars](https://img.shields.io/github/stars/fq393?label=Stars&style=social)](https://github.com/fq393)
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=fq393.fq393&right_color=6366f1)](https://github.com/fq393)
+  
+</div>
 
-- **现代化设计**: 采用最新的设计趋势，简洁美观
-- **完全响应式**: 适配所有设备，从手机到桌面
-- **流畅动画**: 丰富的CSS动画和JavaScript交互效果
-- **性能优化**: 快速加载，优秀的用户体验
-- **SEO友好**: 良好的搜索引擎优化
-- **无障碍访问**: 支持键盘导航和屏幕阅读器
+## 🚀 About Me
 
-## 🚀 功能
+```python
+class Developer:
+    def __init__(self):
+        self.name = "fq393"
+        self.role = "Python Developer & AI Enthusiast"
+        self.language_spoken = ["zh_CN", "en_US"]
+        self.code = ["Python", "Java", "JavaScript", "SQL"]
+        self.focus_areas = [
+            "Python开发",
+            "人工智能与机器学习", 
+            "数据分析与处理",
+            "Web开发"
+        ]
+        
+    def say_hi(self):
+        print("专注于Python开发和AI技术，欢迎交流学习！")
 
-### 主要模块
-- **首页**: 个人介绍和社交链接
-- **关于我**: 详细的个人信息和统计数据
-- **技能**: 技术栈展示，包含前端、后端、数据库等
-- **项目**: 精选项目展示，包含项目描述和技术栈
-- **联系**: 联系表单和联系方式
-
-### 交互功能
-- 平滑滚动导航
-- 响应式移动端菜单
-- 动态统计数字动画
-- 表单验证和提交
-- 返回顶部按钮
-- 滚动时的元素动画
-- 悬停效果和微交互
+me = Developer()
+me.say_hi()
+```
 
 ## 🛠️ 技术栈
 
-- **HTML5**: 语义化标记
-- **CSS3**: 现代CSS特性，包含Grid、Flexbox、动画等
-- **JavaScript (ES6+)**: 原生JavaScript，无依赖框架
-- **Font Awesome**: 图标库
-- **Google Fonts**: 网络字体
+### 💻 编程语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📁 项目结构
+### 🤖 AI & 机器学习
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-```
-fq393/
-├── index.html          # 主页面
-├── styles.css          # 样式文件
-├── script.js           # JavaScript功能
-└── README.md           # 项目文档
-```
+### 🗄️ 数据库
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🎨 设计特色
+### 🌐 Web开发
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 颜色方案
-- 主色调: `#6366f1` (靛蓝色)
-- 辅助色: `#f59e0b` (琥珀色)
-- 文本色: `#1f2937` (深灰色)
-- 背景色: `#ffffff` / `#f9fafb`
+### 🔧 工具 & 平台
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 字体
-- 主字体: Inter (Google Fonts)
-- 备用字体: 系统字体栈
+## 📊 GitHub 统计
 
-### 布局
-- 移动优先的响应式设计
-- CSS Grid 和 Flexbox 布局
-- 流体网格系统
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fq393&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fq393&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
-## 🚀 快速开始
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fq393&theme=radical&hide_border=true" alt="fq393" />
+</div>
 
-### 本地运行
+## 🏆 GitHub 成就
 
-1. 克隆项目到本地
-```bash
-git clone https://github.com/fq393/fq393.git
-cd fq393
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fq393&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="fq393" />
+</div>
 
-2. 使用本地服务器运行
-```bash
-# 使用Python
-python -m http.server 8000
+## 📈 活动图表
 
-# 或使用Node.js
-npx serve .
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fq393&theme=react-dark&hide_border=true&area=true" alt="fq393's github activity graph" />
+</div>
 
-# 或使用PHP
-php -S localhost:8000
-```
+## 🐍 贡献蛇动画
 
-3. 在浏览器中访问 `http://localhost:8000`
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fq393/fq393/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fq393/fq393/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fq393/fq393/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-### 部署
+## 🎯 我的项目
 
-#### GitHub Pages
-1. 将代码推送到GitHub仓库
-2. 在仓库设置中启用GitHub Pages
-3. 选择主分支作为源
+<table>
+  <tr>
+    <th>项目名称</th>
+    <th>使用技术</th>
+    <th>项目描述</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fq393/xianyu-spider">闲鱼APP数据采集</a></td>
+    <td>Python, uiautomator2</td>
+    <td>基于UI自动化的移动端数据采集系统，支持任意关键字爬取</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fq393/lianjia-spider">链家网数据爬虫</a></td>
+    <td>Python, Scrapy, Pandas</td>
+    <td>房产数据采集系统，可选择省份区域并自动导出Excel报表</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fq393/fang-spider">房天下数据爬虫</a></td>
+    <td>Python, Requests, BeautifulSoup</td>
+    <td>二手房信息采集工具，支持多地区数据抓取和Excel导出</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/fq393/design-patterns-java">设计模式学习笔记</a></td>
+    <td>Java, OOP, Design Patterns</td>
+    <td>23种设计模式的完整实现和详细学习笔记，包含UML图解</td>
+  </tr>
+</table>
 
-#### Netlify
-1. 连接GitHub仓库到Netlify
-2. 设置构建命令为空（静态站点）
-3. 设置发布目录为根目录
+## 🎯 2024年学习目标
 
-#### Vercel
-1. 导入GitHub仓库到Vercel
-2. 自动部署，无需额外配置
+- 🤖 深入学习深度学习和神经网络
+- 📊 提升数据科学和机器学习技能
+- 🚀 探索AI在实际项目中的应用
+- 💡 参与更多开源项目贡献
 
-## 🎯 自定义指南
+## 📈 GitHub活跃度
 
-### 修改个人信息
+<div align="center">
 
-1. **基本信息**: 编辑 `index.html` 中的文本内容
-2. **社交链接**: 更新 `.social-links` 中的链接地址
-3. **技能标签**: 修改 `.skill-items` 中的技能列表
-4. **项目展示**: 更新 `.project-card` 中的项目信息
+### 📊 编程统计数据
 
-### 样式自定义
+| 统计项目 | 数值 | 说明 |
+|---------|------|------|
+| ⭐ **Total Stars Earned** | 83 | 获得的总星标数 |
+| 📝 **Total Commits (2024)** | 33 | 2024年提交次数 |
+| 🔀 **Total PRs** | 0 | 提交的拉取请求 |
+| 🐛 **Total Issues** | 206 | 创建的问题数 |
+| 🏆 **Contributed to (last year)** | 2 | 去年贡献的仓库数 |
 
-1. **颜色主题**: 修改 `styles.css` 中的 CSS 变量
-```css
-:root {
-    --primary-color: #your-color;
-    --secondary-color: #your-color;
-}
-```
+</div>
 
-2. **字体**: 更改 Google Fonts 链接和 CSS 字体栈
-3. **布局**: 调整网格和间距变量
+## 🎵 当前状态
 
-### 添加新功能
+🔭 目前专注于：**Python开发** 和 **AI技术学习**  
+🌱 正在学习：**深度学习** 和 **机器学习算法**  
+💬 欢迎讨论：**Python开发**、**人工智能**、**数据科学**
 
-1. **新页面部分**: 在 HTML 中添加新的 `<section>`
-2. **导航链接**: 更新导航菜单
-3. **样式**: 为新部分添加对应的CSS
-4. **交互**: 在 `script.js` 中添加相关功能
+## 📫 联系我
 
-## 📱 浏览器支持
+<div align="center">
 
-- Chrome (推荐)
-- Firefox
-- Safari
-- Edge
-- 移动端浏览器
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fq393)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://img.shields.io/badge/微信-Van__1993-07C160?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/fq393)
 
-## 🔧 开发工具推荐
+</div>
 
-- **代码编辑器**: VS Code, Sublime Text
-- **浏览器开发工具**: Chrome DevTools
-- **设计工具**: Figma, Adobe XD
-- **图标**: Font Awesome, Heroicons
-- **字体**: Google Fonts
+### 🤝 合作交流
 
-## 📈 性能优化
-
-- CSS和JavaScript文件压缩
-- 图片优化和懒加载
-- 关键CSS内联
-- 预加载重要资源
-- 使用CDN加速
-
-## 🤝 贡献
-
-欢迎提交Issue和Pull Request来改进这个项目！
-
-### 贡献步骤
-1. Fork 项目
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 创建Pull Request
-
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
-
-## 📞 联系方式
-
-- **GitHub**: [https://github.com/fq393](https://github.com/fq393)
-- **微信**: Van_1993
-- **邮箱**: your.email@example.com
-
-💡 **有任何想法可以联系一起探讨！**
-
-## 🎯 GitHub Profile README
-
-本项目还包含了一个专门的GitHub Profile README文件 (`PROFILE_README.md`)，你可以将其内容复制到你的GitHub同名仓库中来创建个人主页。
-
-### 如何使用GitHub Profile README
-
-1. **创建同名仓库**: 在GitHub上创建一个与你用户名相同的仓库（如：`fq393/fq393`）
-2. **设置为公开**: 确保仓库是公开的
-3. **复制内容**: 将 `PROFILE_README.md` 的内容复制到新仓库的 `README.md` 文件中
-4. **个性化定制**: 根据你的实际情况修改个人信息、技能、项目等内容
-
-### Profile README 特色功能
-
-- 🎨 **动态打字效果**: 展示你的身份和技能
-- 📊 **GitHub统计**: 自动显示你的代码统计信息
-- 🏆 **成就徽章**: 展示你的GitHub成就
-- 🐍 **贡献蛇动画**: 将你的贡献记录变成有趣的动画
-- 🎵 **Spotify集成**: 显示你正在听的音乐
-- 📝 **博客文章**: 自动更新最新博客内容
-- 🛠️ **技能徽章**: 美观的技术栈展示
-
-参考资料：[如何打造一个花里胡哨的Github个人主页](https://www.cnblogs.com/meet/p/18084942)
-
-## 🙏 致谢
-
-- [Font Awesome](https://fontawesome.com/) - 图标库
-- [Google Fonts](https://fonts.google.com/) - 网络字体
-- [Shields.io](https://shields.io/) - 徽章生成
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - GitHub统计
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - 动态打字效果
+- 💼 **专业领域**: Python开发、人工智能、数据分析
+- 🔍 **寻求合作**: AI项目、数据科学、开源贡献
+- 💬 **微信**: Van_1993 （添加请备注"GitHub"）
+- 📧 **邮箱**: 欢迎技术交流和项目合作
 
 ---
 
-⭐ 如果这个项目对你有帮助，请给它一个星标！
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fq393&label=Profile%20views&color=0e75b6&style=flat" alt="fq393" />
+</div>
+
+<div align="center">
+  
+### 💡 "代码改变世界，AI创造未来"
+
+*感谢访问我的GitHub主页！有任何想法可以联系一起探讨 🚀*
+
+</div>
+
+---
+
+<div align="center">
+  
+  ⭐️ From [fq393](https://github.com/fq393)
+  
+</div>
