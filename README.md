@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm fq393!
+# 👋 Hi there, I'm Vanche!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Java+%7C+AI+%7C+Machine+Learning;Always+learning+new+things" alt="Typing SVG" />
@@ -67,91 +67,7 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub 统计
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fq393&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fq393&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fq393&theme=radical&hide_border=true" alt="fq393" />
-</div>
-
-## 🏆 GitHub 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fq393&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="fq393" />
-</div>
-
-## 📈 活动图表
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fq393&theme=react-dark&hide_border=true&area=true" alt="fq393's github activity graph" />
-</div>
-
-## 🐍 贡献蛇动画
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fq393/fq393/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fq393/fq393/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fq393/fq393/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## 🎯 我的项目
-
-<table>
-  <tr>
-    <th>项目名称</th>
-    <th>使用技术</th>
-    <th>项目描述</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/fq393/xianyu-spider">闲鱼APP数据采集</a></td>
-    <td>Python, uiautomator2</td>
-    <td>基于UI自动化的移动端数据采集系统，支持任意关键字爬取</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/fq393/lianjia-spider">链家网数据爬虫</a></td>
-    <td>Python, Scrapy, Pandas</td>
-    <td>房产数据采集系统，可选择省份区域并自动导出Excel报表</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/fq393/fang-spider">房天下数据爬虫</a></td>
-    <td>Python, Requests, BeautifulSoup</td>
-    <td>二手房信息采集工具，支持多地区数据抓取和Excel导出</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/fq393/design-patterns-java">设计模式学习笔记</a></td>
-    <td>Java, OOP, Design Patterns</td>
-    <td>23种设计模式的完整实现和详细学习笔记，包含UML图解</td>
-  </tr>
-</table>
-
-## 🎯 2024年学习目标
-
-- 🤖 深入学习深度学习和神经网络
-- 📊 提升数据科学和机器学习技能
-- 🚀 探索AI在实际项目中的应用
-- 💡 参与更多开源项目贡献
-
-## 📈 GitHub活跃度
-
-<div align="center">
-
-### 📊 编程统计数据
-
-| 统计项目 | 数值 | 说明 |
-|---------|------|------|
-| ⭐ **Total Stars Earned** | 83 | 获得的总星标数 |
-| 📝 **Total Commits (2024)** | 33 | 2024年提交次数 |
-| 🔀 **Total PRs** | 0 | 提交的拉取请求 |
-| 🐛 **Total Issues** | 206 | 创建的问题数 |
-| 🏆 **Contributed to (last year)** | 2 | 去年贡献的仓库数 |
-
-</div>
 
 ## 🎵 当前状态
 
